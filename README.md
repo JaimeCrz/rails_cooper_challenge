@@ -1,7 +1,7 @@
 # [Welcome to Cooper API](https://cooper-api-challenge.herokuapp.com/)
 
 
-### Short paragraph
+### What is this cooper applicaiton?
 
 This project was made in mind of the Cooper test Explanation here below.
 
